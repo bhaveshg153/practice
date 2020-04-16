@@ -1,9 +1,9 @@
-Reactive Programming == Functional Programming++
+#Reactive Programming == Functional Programming++
 
-  Java 8 Stream             vs.       Reactive Stream
-  functional composition              functional composition
-  pipeline                            pipeline
-  lazy evaluation                     lazy evaluation
+  #Java 8 Stream             vs.       Reactive Stream
+  #functional composition              functional composition
+  #pipeline                            pipeline
+  #lazy evaluation                     lazy evaluation
 
   data only                           data also
   How do we deal with exception?
